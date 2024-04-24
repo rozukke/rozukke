@@ -1,3 +1,5 @@
+![banner-image](/resources/banner-img.png)
+
 ### Welcome / ようこそ / Добро пожаловать
 
 **About me:**
