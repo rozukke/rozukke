@@ -3,7 +3,10 @@
 ### Welcome / ようこそ / Добро пожаловать
 
 **About me:**
-- SE Student at RMIT University
+- SE Student RMIT University. Hoping to finish soon and work somewhere fun!
+- Dev/Mentor (also at RMIT University). I help students code in C++ and assembly, with a focus on low
+level algorithms. I also make some of the tools used in the RMIT Studio 2 course and maintain their quality.
+
 - Fashionista
 - Avid rhythm gamer ([maybe too avid](https://osu.ppy.sh/users/11161613))
 
