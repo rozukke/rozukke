@@ -10,6 +10,15 @@ level algorithms. I also make some of the tools used in the RMIT Studio 2 course
 - Fashionista
 - Avid rhythm gamer ([maybe too avid](https://osu.ppy.sh/users/11161613))
 
+**Current focus:**
+- Learning Rust to a high level
+- Low level development (compilers, memory, systems programming)
+
+**Main skills:**
+- C/C++, Rust, Python (Some experience with C#, Java, Webdev) 
+- GitHub CI, code reviews, project management/maintenance
+- Communication/teaching
+
 **Socials:**\
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemis-rosman/)
 
